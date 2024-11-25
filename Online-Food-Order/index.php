@@ -5,7 +5,7 @@ session_start();
 <html>
 
   <head>
-    <title> Home | Le Cafe' </title>
+    <title> Home | Le Cafe 25/11/2024' </title>
   </head>
 
   <link rel="stylesheet" type = "text/css" href ="css/bootstrap.min.css">
