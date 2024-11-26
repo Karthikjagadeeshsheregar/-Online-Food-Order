@@ -5,7 +5,7 @@ session_start();
 <html>
 
   <head>
-    <title> About | Le Cafe 25/11/2024 26/11/2024 by nagesh' </title>
+    <title> About | Le Cafe 25/11/2024 26/11/2024 by nagesha' </title>
   </head>
 
   <link rel="stylesheet" type = "text/css" href ="css/aboutus.css">
