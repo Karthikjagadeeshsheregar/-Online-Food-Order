@@ -8,7 +8,7 @@ header('Location: managerlogin.php');
 
 
 
-$name = $conn->real_escape_string($_POST['name']);
+$name = $conn->real_escape_string($_POST['name food']);
 $price = $conn->real_escape_string($_POST['price']);
 $description = $conn->real_escape_string($_POST['description']);
 
