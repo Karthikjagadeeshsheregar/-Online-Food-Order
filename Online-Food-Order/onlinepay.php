@@ -11,7 +11,7 @@ header("location: customerlogin.php");
 <html>
 
   <head>
-    <title> Online Payment | Le Cafe' </title>
+    <title> Online Payment | Le Cafe 26/11/2024' </title>
   </head>
 
   <link rel="stylesheet" type = "text/css" href ="css/COD.css">
